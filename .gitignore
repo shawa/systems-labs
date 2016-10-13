@@ -1,0 +1,9 @@
+*.o
+*.dSYM
+*.html
+.ycm*
+*.zip
+*.bf
+*.txt
+
+08/resources/*
